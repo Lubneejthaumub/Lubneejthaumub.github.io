@@ -5,6 +5,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -422,11 +423,11 @@ h6,
   color: #ffffff;
 }
 #menu-0 .navbar-toggler {
-  color: #0a1afd;
+  color: #ffffff;
 }
 #menu-0 .link,
 #menu-0 .dropdown-item {
-  color: #0a1afd;
+  color: #ffffff;
 }
 #menu-0 .link {
   font-size: 0.95rem;
@@ -458,7 +459,7 @@ h6,
   background: #282828;
 }
 #menu-0 .bg-color.transparent .link {
-  color: #0a1afd;
+  color: #ffffff;
   transition: none;
 }
 #menu-0 .bg-color.transparent.opened .link {
@@ -480,10 +481,52 @@ h6,
 }
 #menu-0 .close-icon::before,
 #menu-0 .close-icon::after {
-  background-color: #0a1afd;
+  background-color: #ffffff;
+}
+#slider-19 H2 {
+  font-family: 'Lora', serif;
 }
 #header1-1 .mbr-section-title {
   text-align: center;
   font-family: 'Lora', serif;
   color: #0827ed;
+}
+#header6-8 .mbr-section-title {
+  color: #28262b;
+}
+#header6-8 .mbr-section-text {
+  color: #565656;
+}
+#msg-box6-a .mbr-section-title,
+#msg-box6-a .lead p {
+  color: #fff;
+}
+#msg-box7-b .mbr-section-title,
+#msg-box7-b .lead p {
+  color: #fff;
+}
+#slider2-r .mbr-section-title,
+#slider2-r .mbr-section-lead {
+  color: #fff;
+}
+#msg-box8-m .mbr-section-title,
+#msg-box8-m p {
+  color: #fff;
+}
+#header3-n .mbr-section-title,
+#header3-n .mbr-section-subtitle {
+  text-align: center;
+}
+#content5-v .mbr-section-title,
+#content5-v p {
+  color: #fff;
+}
+#content8-w .mbr-section-title,
+#content8-w p {
+  text-align: right;
+  color: #fff;
+}
+#msg-box3-x .mbr-section-title,
+#msg-box3-x p {
+  color: #000;
 }
